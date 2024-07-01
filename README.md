@@ -1,4 +1,4 @@
-![MasterHead]([https://github.com/SWahidatulhusna/SWahidatulhusna/blob/main/code2.gif])
+![MasterHead][https://github.com/SWahidatulhusna/SWahidatulhusna/blob/main/code2.gif]
 <h1 align="center">Hi 👋, I'm Sabda</h1>
 <h3 align="center">A passionate Geophysics Engineering from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src=https://github.com/SWahidatulhusna/SWahidatulhusna/blob/main/code1.gif>
