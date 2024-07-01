@@ -1,7 +1,7 @@
-![MasterHead](https://github.com/SWahidatulhusna/Sabda/blob/main/sn51brnpz6yb1.gif)
+![MasterHead]([https://github.com/SWahidatulhusna/SWahidatulhusna/blob/main/code2.gif])
 <h1 align="center">Hi 👋, I'm Sabda</h1>
 <h3 align="center">A passionate Geophysics Engineering from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/SWahidatulhusna/Sabda/blob/main/91908ad2f9aef293ed840739a291e9db.gif">
+<img align="right" alt="Coding" width="400" src=https://github.com/SWahidatulhusna/SWahidatulhusna/blob/main/code1.gif>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swahidatulhusna&label=Profile%20views&color=0e75b6&style=flat" alt="swahidatulhusna" /> </p>
 
 - 🌱 I’m currently learning **HTML, CSS, and ReactJS**
